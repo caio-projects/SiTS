@@ -2,7 +2,7 @@ let turbine;
 let cam;
 
 function preload() {
-  teapot = loadModel('./SiTS/models/turbine.obj ', true);
+  teapot = loadModel('models/turbine.obj', true);
 }
 
 function setup() {
