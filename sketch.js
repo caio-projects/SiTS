@@ -2,7 +2,7 @@ let turbine;
 let cam;
 
 function preload() {
-  teapot = loadModel('./models/turbine.obj', true);
+  teapot = loadModel('https://caio-projects.github.io/SiTS/models/turbine.obj ', true);
 }
 
 function setup() {
